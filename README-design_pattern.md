@@ -1,4 +1,24 @@
 # 设计模式
+1.设计模式的目的
+设计模式是为了更好的代码重用性，可读性，可靠性，可维护性。
+
+
+1)单一职责原则
+2)里氏替换原则
+3)依赖倒转原则
+4)接口隔离原则
+5)迪米特法则
+6)开闭原则
+
+
+##六大设计原则 SOLID （solid，稳定的）
+Single Responsibility Principle：(SRP)单一职责原则
+Open Closed Principle：(OCP)开闭原则
+Liskov Substitution Principle：(LSP)里氏替换原则
+Law of Demeter：(LOD)迪米特法则
+Interface Segregation Principle：(ISP)接口隔离原则
+Dependence Inversion Principle：(DIP)依赖倒置原则
+
 
 
 
